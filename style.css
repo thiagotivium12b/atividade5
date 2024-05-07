@@ -1,20 +1,16 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 body{
-    background-color: aliceblue;
+    background-color: #22d3ee;
 }
-h1{
-    color:black;
-}
-.texto-branco {
-    color:azure;
-    background-color: black;
-}
+    body {
+        color: #7e22ce;
+    }
 
-h3{
-    color:azure;
-    background-color: black;
-}
+    h1, h2, h3 {
+        color: #db2777;
+    }
 
-#texto-branco2 {
-    color: #0f0
 
-}
